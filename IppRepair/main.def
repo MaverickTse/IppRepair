@@ -1,0 +1,4 @@
+LIBRARY IppRepair.auf
+EXPORTS
+	GetFilterTable @1
+

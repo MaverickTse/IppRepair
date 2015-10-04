@@ -1,0 +1,112 @@
+
+=== Start: [2015/01/28 11:38:14] === 
+Analysis started...
+Result file: C:\SDK\AviUtlDev\IppRepair\IppRepair\My Inspector XE Results - IppRepair\r000mi1\r000mi1.inspxe 
+Analysis started for C:\aviutl\aviutl.exe (pid = 4740) 
+Loaded module: C:\aviutl\aviutl.exe, address range [0x00400000-0x00695FFF] 
+Loaded module: C:\Program Files (x86)\Intel\Inspector XE 2015\bin32\ccrt12.dll, address range [0x56000000-0x5616BFFF], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\nvinit.dll, address range [0x74850000-0x7487BFFF] 
+Loaded module: C:\Windows\syswow64\CRYPTBASE.dll, address range [0x749B0000-0x749BBFFF], minimal analysis 
+Loaded module: C:\Windows\syswow64\SspiCli.dll, address range [0x749C0000-0x74A1FFFF] 
+Loaded module: C:\Windows\syswow64\USER32.dll, address range [0x74A70000-0x74B6FFFF], minimal analysis 
+Loaded module: C:\Windows\syswow64\ADVAPI32.dll, address range [0x74D20000-0x74DBFFFF], minimal analysis 
+Loaded module: C:\Windows\syswow64\msvcrt.dll, address range [0x75E10000-0x75EBBFFF], minimal analysis 
+Loaded module: C:\Windows\syswow64\USP10.dll, address range [0x75ED0000-0x75F6CFFF], minimal analysis 
+Loaded module: C:\Windows\syswow64\KERNELBASE.dll, address range [0x75F80000-0x75FC6FFF], minimal analysis 
+Loaded module: C:\Windows\system32\IMM32.DLL, address range [0x75FD0000-0x7602FFFF], minimal analysis 
+Loaded module: C:\Windows\SysWOW64\sechost.dll, address range [0x76040000-0x76058FFF] 
+Loaded module: C:\Windows\syswow64\RPCRT4.dll, address range [0x760A0000-0x7618FFFF], minimal analysis 
+Loaded module: C:\Windows\syswow64\MSCTF.dll, address range [0x76190000-0x7625BFFF], minimal analysis 
+Loaded module: C:\Windows\syswow64\kernel32.dll, address range [0x76260000-0x7636FFFF], minimal analysis 
+Loaded module: C:\Windows\syswow64\GDI32.dll, address range [0x76810000-0x7689FFFF], minimal analysis 
+Loaded module: C:\Windows\syswow64\LPK.dll, address range [0x76FF0000-0x76FF9FFF] 
+Loaded module: C:\Windows\SysWOW64\ntdll.dll, address range [0x77020000-0x7719FFFF], minimal analysis 
+Loaded module: C:\Windows\system32\DDRAW.dll, address range [0x70790000-0x70876FFF] 
+Loaded module: C:\Windows\system32\DCIMAN32.dll, address range [0x50EF0000-0x50EF5FFF] 
+Loaded module: C:\Windows\syswow64\SETUPAPI.dll, address range [0x76A80000-0x76C1CFFF] 
+Loaded module: C:\Windows\syswow64\CFGMGR32.dll, address range [0x76A00000-0x76A26FFF] 
+Loaded module: C:\Windows\syswow64\OLEAUT32.dll, address range [0x74F40000-0x74FCEFFF] 
+Loaded module: C:\Windows\syswow64\ole32.dll, address range [0x76400000-0x7655BFFF], minimal analysis 
+Loaded module: C:\Windows\syswow64\DEVOBJ.dll, address range [0x74DC0000-0x74DD1FFF] 
+Loaded module: C:\Windows\system32\dwmapi.dll, address range [0x6D370000-0x6D382FFF], minimal analysis 
+Loaded module: C:\Windows\system32\WINMM.dll, address range [0x73640000-0x73671FFF] 
+Loaded module: C:\Windows\system32\AVIFIL32.dll, address range [0x6DA10000-0x6DA28FFF] 
+Loaded module: C:\Windows\system32\MSACM32.dll, address range [0x3FF70000-0x3FF83FFF] 
+Loaded module: C:\Windows\system32\MSVFW32.dll, address range [0x40DB0000-0x40DD0FFF] 
+Loaded module: C:\Windows\syswow64\SHELL32.dll, address range [0x751C0000-0x75E09FFF], minimal analysis 
+Loaded module: C:\Windows\syswow64\SHLWAPI.dll, address range [0x767B0000-0x76806FFF] 
+Loaded module: C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18201_none_ec80f00e8593ece5\COMCTL32.dll, address range [0x6C570000-0x6C5F3FFF] 
+Loaded module: C:\Windows\syswow64\comdlg32.dll, address range [0x76940000-0x769BAFFF], minimal analysis 
+Loaded module: C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.18455_none_72d576ad8665e853\gdiplus.dll, address range [0x717F0000-0x7197FFFF] 
+Loaded module: C:\aviutl\EnModAul.aul, address range [0x0FB30000-0x0FB47FFF] 
+Loaded module: C:\aviutl\MSVCR120.dll, address range [0x0FD30000-0x0FE1DFFF] 
+Loaded module: C:\Windows\system32\uxtheme.dll, address range [0x6C600000-0x6C67FFFF], minimal analysis 
+Loaded module: C:\aviutl\lwcolor.auc, address range [0x70D40000-0x70D4BFFF] 
+Loaded module: C:\Windows\SysWOW64\HsSrv.dll, address range [0x10000000-0x10036FFF] 
+Loaded module: C:\Windows\SysWOW64\DSOUND.dll, address range [0x70F70000-0x70FE1FFF] 
+Loaded module: C:\Windows\SysWOW64\POWRPROF.dll, address range [0x70000000-0x70024FFF] 
+Loaded module: C:\Windows\SysWOW64\VERSION.dll, address range [0x748E0000-0x748E8FFF] 
+Loaded module: C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll, address range [0x6D210000-0x6D267FFF] 
+Loaded module: C:\Windows\system32\apphelp.dll, address range [0x6CE90000-0x6CEDBFFF] 
+Loaded module: C:\Windows\system32\ATOK25W.IME, address range [0x69800000-0x6A014FFF] 
+Loaded module: C:\Windows\system32\Atok25Ae.dll, address range [0x69760000-0x697F3FFF] 
+Loaded module: C:\Windows\system32\Atok25De.dll, address range [0x69670000-0x69754FFF] 
+Loaded module: C:\Windows\system32\MSIMG32.dll, address range [0x74650000-0x74654FFF] 
+Loaded module: C:\Windows\system32\ole32.dll, address range [0x14150000-0x142ABFFF], minimal analysis 
+Unloaded module: C:\Windows\system32\ole32.dll 
+Loaded module: C:\Windows\system32\ntmarta.dll, address range [0x74820000-0x74840FFF] 
+Loaded module: C:\Windows\syswow64\WLDAP32.dll, address range [0x76A30000-0x76A74FFF] 
+Loaded module: C:\Windows\system32\ole32.dll, address range [0x141D0000-0x1432BFFF], minimal analysis 
+Unloaded module: C:\Windows\system32\ole32.dll 
+Loaded module: C:\Windows\syswow64\CLBCatQ.DLL, address range [0x768A0000-0x76922FFF] 
+Loaded module: C:\Program Files (x86)\JustSystems\ATOK25\ATOK25TIP.DLL, address range [0x63060000-0x638E4FFF] 
+Loaded module: C:\Windows\System32\msctf.dll, address range [0x14440000-0x1450BFFF], minimal analysis 
+Unloaded module: C:\Windows\System32\msctf.dll 
+Loaded module: C:\Windows\system32\msctf.dll, address range [0x14570000-0x1463BFFF], minimal analysis 
+Unloaded module: C:\Windows\system32\msctf.dll 
+Loaded module: C:\Windows\system32\oleacc.dll, address range [0x74570000-0x745ABFFF] 
+Loaded module: C:\aviutl\exedit.auf, address range [0x14650000-0x148B0FFF] 
+Loaded module: C:\aviutl\IppRepair.auf, address range [0x149C0000-0x14EAFFFF] 
+Loaded module: C:\Program Files (x86)\Intel\Composer XE 2015\redist\ia32\compiler\cilkrts20.dll, address range [0x00B70000-0x00BB4FFF], minimal analysis 
+Loaded module: C:\Program Files (x86)\Intel\Inspector XE 2015\bin32\runtime\libittnotify.dll, address range [0x00C00000-0x00C25FFF], minimal analysis 
+Loaded module: C:\aviutl\lwdumper.auf, address range [0x68E80000-0x68EFDFFF] 
+Loaded module: C:\aviutl\lwmuxer.auf, address range [0x657C0000-0x65851FFF] 
+Loaded module: C:\aviutl\plugins\ImasUncaption.auf, address range [0x6E240000-0x6E29AFFF] 
+Loaded module: C:\aviutl\plugins\MotionTrackingMKI.auf, address range [0x155B0000-0x15930FFF] 
+Loaded module: C:\Windows\system32\VCOMP120D.DLL, address range [0x159A0000-0x159C5FFF] 
+Loaded module: C:\aviutl\exedit_freeimage.spi, address range [0x16BE0000-0x16BFBFFF] 
+Loaded module: C:\Windows\system32\MSVCR120D.dll, address range [0x16C10000-0x16DCEFFF] 
+Loaded module: C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.DLL, address range [0x743C0000-0x7455DFFF] 
+Loaded module: C:\aviutl\lwinput.aui, address range [0x180E0000-0x1944FFFF] 
+Loaded module: C:\Windows\system32\shell32.dll, address range [0x269F0000-0x27639FFF], minimal analysis 
+Unloaded module: C:\Windows\system32\shell32.dll 
+Loaded module: C:\Windows\system32\MMDevAPI.DLL, address range [0x70B50000-0x70B88FFF] 
+Loaded module: C:\Windows\system32\PROPSYS.dll, address range [0x6B2D0000-0x6B3C4FFF] 
+Loaded module: C:\Windows\system32\wdmaud.drv, address range [0x40F20000-0x40F4FFFF], minimal analysis 
+Loaded module: C:\Windows\system32\ksuser.dll, address range [0x50F00000-0x50F03FFF] 
+Loaded module: C:\Windows\system32\AVRT.dll, address range [0x53DC0000-0x53DC6FFF] 
+Loaded module: C:\Windows\system32\AUDIOSES.DLL, address range [0x70720000-0x70755FFF] 
+Loaded module: C:\Windows\system32\msacm32.drv, address range [0x3F6A0000-0x3F6A7FFF] 
+Loaded module: C:\Windows\system32\midimap.dll, address range [0x3FBF0000-0x3FBF6FFF] 
+Unloaded module: C:\aviutl\lwinput.aui 
+Unloaded module: C:\aviutl\exedit_freeimage.spi 
+Unloaded module: C:\Windows\system32\MSVCR120D.dll 
+Unloaded module: C:\aviutl\IppRepair.auf 
+Unloaded module: C:\Program Files (x86)\Intel\Composer XE 2015\redist\ia32\compiler\cilkrts20.dll 
+Unloaded module: C:\aviutl\lwdumper.auf 
+Unloaded module: C:\aviutl\lwmuxer.auf 
+Unloaded module: C:\aviutl\plugins\ImasUncaption.auf 
+Unloaded module: C:\aviutl\plugins\MotionTrackingMKI.auf 
+Unloaded module: C:\Windows\system32\VCOMP120D.DLL 
+Unloaded module: C:\aviutl\lwcolor.auc 
+Unloaded module: C:\aviutl\EnModAul.aul 
+Unloaded module: C:\aviutl\MSVCR120.dll 
+Unloaded module: C:\aviutl\exedit.auf 
+Unloaded module: C:\Program Files (x86)\JustSystems\ATOK25\ATOK25TIP.DLL 
+Loaded module: C:\Windows\syswow64\WINTRUST.dll, address range [0x769C0000-0x769EDFFF] 
+Loaded module: C:\Windows\syswow64\CRYPT32.dll, address range [0x74E20000-0x74F3FFFF] 
+Loaded module: C:\Windows\syswow64\MSASN1.dll, address range [0x767A0000-0x767ABFFF] 
+Application exit code: 1 
+Result file: C:\SDK\AviUtlDev\IppRepair\IppRepair\My Inspector XE Results - IppRepair\r000mi1\r000mi1.inspxe 
+Analysis completed
+=== End: [2015/01/28 11:45:24] === 

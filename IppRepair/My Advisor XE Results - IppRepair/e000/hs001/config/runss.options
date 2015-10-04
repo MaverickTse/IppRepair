@@ -1,0 +1,17 @@
+-r
+C:\SDK\AviUtlDev\IppRepair\IppRepair\My Advisor XE Results - IppRepair\e000\hs001
+-type
+cpu:stack
+--data-limit-mb=100
+--stack-stitching
+--follow-child
+--stackwalk=offline
+--mrte-mode=auto
+--search-dir
+sym=C:\SDK\AviUtlDev\IppRepair\Release
+--search-dir
+sym=C:\SDK\AviUtlDev\IppRepair
+--search-dir
+sym=srv*C:\Users\MaverickTse\AppData\Local\Temp\SymbolCache
+--
+c:\aviutl\aviutl.exe

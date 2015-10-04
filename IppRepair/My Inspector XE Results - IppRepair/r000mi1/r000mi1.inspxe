@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <rdmgr>
+  <timestamp type="u64_t">1422416294</timestamp>
+  <hostname>MaverickTse-PC</hostname>
+  <os>windows</os>
+  <product>Intel® Inspector XE 2015 Update 1</product>
+  <buildNumber type="s32_t">379161</buildNumber>
+  <logicalCPUCount type="s32_t">8</logicalCPUCount>
+  <CPUFrequency type="s64_t">3400000000</CPUFrequency>
+  <collectionTimeBegin type="u64_t">1422416294</collectionTimeBegin>
+  <collectionTimeEnd type="u64_t">1422416724</collectionTimeEnd>
+  <variables>
+   <at>mi1</at>
+  </variables>
+ </rdmgr>
+</root>
